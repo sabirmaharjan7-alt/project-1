@@ -1,0 +1,6 @@
+{
+  "name": "Modern Restaurant Website",
+  "description": "A warm, premium, and welcoming brochure website for a modern restaurant called Hearth & Vine, featuring responsive navigation, digital menu, story, private dining, visual lookbook, and interactive reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
